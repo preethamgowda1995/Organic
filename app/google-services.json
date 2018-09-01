@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "332881323866",
+    "firebase_url": "https://organic-942f5.firebaseio.com",
+    "project_id": "organic-942f5",
+    "storage_bucket": "organic-942f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332881323866:android:b0396ba8844e5494",
+        "android_client_info": {
+          "package_name": "com.example.preetham.organic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332881323866-od56ukge1cmodeshmi84es4b1ivbckqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preetham.organic",
+            "certificate_hash": "cff900a54999dd86050fe5a6c43cdb69c622972f"
+          }
+        },
+        {
+          "client_id": "332881323866-57trfh1ch3gn3ls5kvqe00ito4dfd0nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preetham.organic",
+            "certificate_hash": "f8a2324a616de64e6c1f6d2536bb8a1f0ad8e2e2"
+          }
+        },
+        {
+          "client_id": "332881323866-7rtmstvv9vicjufpu9mdk90iq4so20cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHcPyTeT8aYjMGDgI__81SkruaczgCzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332881323866-7rtmstvv9vicjufpu9mdk90iq4so20cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.preetham.organic.HomeActivity"
+    tools:showIn="@layout/app_bar_home"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/veg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VEGETABLES"
+        android:gravity="center"
+        android:fontFamily="casual"
+        android:textSize="35dp"
+        android:background="#CDDC39"
+        android:textColor="#000000"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/fru"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FRUITS"
+        android:fontFamily="casual"
+        android:background="#8BC34A"
+        android:textSize="35dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PRODUCTS"
+        android:fontFamily="casual"
+        android:background="#4CAF50"
+        android:textSize="35dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:layout_weight="1"/>
+</LinearLayout>
